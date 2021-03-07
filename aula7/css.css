@@ -56,6 +56,10 @@ li:last-child {
   justify-content: stretch;
 }
 
+video {
+  object-fit: cover;
+}
+
 .container-apz {
   display: flex;
   margin-left: 100px;
